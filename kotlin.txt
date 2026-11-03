@@ -1,2 +1,4 @@
 nombre: brayan smith bejarano martinez
 correo: brayanbejarano27@gmail.com
+ejercio practico de control de versiones git.
+aprendizaje de comandos basicos y gesion de repositorios
